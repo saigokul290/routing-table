@@ -19,6 +19,8 @@ This project implements a routing table for managing IP addresses and subnetting
 1. Install the `tabulate` module: `pip install tabulate`
 2. Run the `main.py` file: `python main.py`
 
+<img width="491" alt="image" src="https://github.com/saigokul290/routing-table/assets/87557049/28e11435-3dee-4b29-a70c-03f0767282b4">
+
 ## Contributors
 - SAI GOKUL K P (saigokulkp29@outlook.com)
 
